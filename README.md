@@ -10,7 +10,7 @@ I am really interested in
 - Making fast code that can be called from Python (think cython, numba, opencl)
 - Performance Engineering, either in Python or C++
 - Learning to write good C++
-- Getting a Motorbike license
+- ~~Getting a Motorbike license~~ Riding Motorbikes! :D
 
 #### Reaching me
 You can reach me on [LinkedIn](https://www.linkedin.com/in/tariq-mouhtadi/) if you want to work with me.
