@@ -2,13 +2,15 @@
 
 ---
 
+*Quantitative Developer @ BLoSH BV*
+
 *Python Developer [@Channable](https://github.com/channable)*
 
 #### Current Interests
 I am really interested in
 - Financial Modelling (Quant trading)
 - Making fast code that can be called from Python (think cython, numba, opencl)
-- Performance Engineering, either in Python or C++
+- Performance Engineering, either in Rust, Python or C++
 - Learning to write good C++
 - ~~Getting a Motorbike license~~ Riding Motorbikes! :D
 
