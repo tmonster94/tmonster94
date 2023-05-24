@@ -2,7 +2,7 @@
 
 ---
 
-*Quantitative Developer @ BLoSH BV*
+*Quantitative Developer [BLoSH BV](https://www.linkedin.com/company/blosh/)*
 
 *Python Developer [@Channable](https://github.com/channable)*
 
