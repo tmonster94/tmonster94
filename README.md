@@ -4,8 +4,6 @@
 
 *Quantitative Developer [BLoSH BV](https://www.linkedin.com/company/blosh/)*
 
-*Python Developer [@Channable](https://github.com/channable)*
-
 #### Current Interests
 I am really interested in
 - Financial Modelling (Quant trading)
